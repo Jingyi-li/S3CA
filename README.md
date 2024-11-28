@@ -16,3 +16,4 @@ If you want to use this code, please cite our paper:
   doi={10.1109/LSP.2024.3364062}}
 ```
 
+[C/C++ Code](https://github.com/Jingyi-li/S3CA/tree/main/C%2B%2B)
