@@ -11,3 +11,5 @@ make local library of autossca:`make ssca`
 
 ## Run
 compile and run run_autossca.cpp
+## Results
+![image](https://github.com/Jingyi-li/S3CA/blob/main/Figures/speedup_sum_80_fix_2.png)
