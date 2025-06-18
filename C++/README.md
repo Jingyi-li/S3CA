@@ -2,7 +2,8 @@
 S3CA C++ Version
 
 ## Required Library (Single)
-Please install [FFTW](http://www.fftw.org/) and add the FFTWLibrary folder when compile \
+Please install [FFTW](http://www.fftw.org/) and add the FFTWLibrary folder when compile.   
+If you do not know how to install it you can follow [this](https://github.com/Jingyi-li/SFFT_Guide).  
 
 ## GNUmakefile
 Please modify and link the FFTW library \
